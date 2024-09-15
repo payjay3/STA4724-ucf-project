@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratheek Gandhdi</h1>
+<h1 align="center">Hi 👋, I'm Pratheek Gandhodi</h1>
 <h3 align="center">A passionate big data researcher</h3>
 
 - 🔭 I'm developing projects with AI/bigdata for ucf [Glassdoor Reviews](https://github.com/payjay3/STA4724-ucf-project)
